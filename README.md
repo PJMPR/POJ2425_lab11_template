@@ -105,4 +105,6 @@ Generuje uproszczony podgląd HTML wiadomości (np. wyświetla temat jako nagł�
 
 Powodzenia!
 
+![Diagram klas](diagrams/diagram.png)
+
 
