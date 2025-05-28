@@ -11,7 +11,8 @@ public class EmailApp {
          * - Zaimplementuj klasę EmailBuilder, która umożliwia ustawienie tematu, treści i stopki.
          * - Zaimplementuj klasę Email z odpowiednimi getterami (getSubject(), getBody(), getFooter()).
          */
-//        Email email1 = new EmailBuilder()
+//        IBuildEmail emailBuilder = new EmailBuilder();
+//        Email email1 = emailBuilder
 //                .setSubject("Witaj!")
 //                .setBody("To jest prosty e-mail testowy.")
 //                .setFooter("Zespół Testowy")
